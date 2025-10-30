@@ -1,0 +1,2091 @@
+Número de diapositivas: 13
+Dimensiones: 10.0 x 5.625 pulgadas
+
+
+============================================================
+DIAPOSITIVA 1
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (4.58", 0.48")
+    Tamaño: 0.83" x 0.83"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 2:
+    Tipo: PICTURE (13)
+    Posición: (4.74", 0.48")
+    Tamaño: 0.52" x 0.52"
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Sesión 5...
+      Párrafo 1: Sesión 5
+        Tamaño fuente: 45.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (3.69", 1.81")
+    Tamaño: 2.62" x 0.62"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Prototipar tu Proyecto de IA...
+      Párrafo 1: Prototipar tu Proyecto de IA
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (2.46", 3.02")
+    Tamaño: 5.08" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Curso Mentes Digitales...
+      Párrafo 1: Curso Mentes Digitales
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (3.90", 4.31")
+    Tamaño: 2.20" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Octubre 2024...
+      Párrafo 1: Octubre 2024
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (3.90", 4.81")
+    Tamaño: 2.20" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 2
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Objetivo y Agenda...
+      Párrafo 1: Objetivo y Agenda
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 4.86" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.50", 1.65")
+    Tamaño: 9.00" x 1.23"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.53", 1.65")
+    Tamaño: 0.00" x 1.23"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🎯 Objetivo...
+      Párrafo 1: 🎯 Objetivo
+        Tamaño fuente: 18.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.81", 1.90")
+    Tamaño: 4.31" x 0.33"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Guiar a los estudiantes en planificar y diseñar su propio proyecto de Inteligencia Artificial....
+      Párrafo 1: Guiar a los estudiantes en planificar y diseñar su propio proyecto de Inteligenc
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.81", 2.30")
+    Tamaño: 8.61" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 📋 Agenda...
+      Párrafo 1: 📋 Agenda
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.50", 3.13")
+    Tamaño: 9.18" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Design Thinking y sus fases
+Ideas de proyectos de IA
+Planificación del prototipo
+Actividad práctica ...
+      Párrafo 1: Design Thinking y sus fases
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 2: Ideas de proyectos de IA
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 3: Planificación del prototipo
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 4: Actividad práctica en grupos
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.50", 3.56")
+    Tamaño: 9.00" x 1.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 3
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ¿Qué es Design Thinking?...
+      Párrafo 1: ¿Qué es Design Thinking?
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 4.86" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: PICTURE (13)
+    Posición: (0.33", 1.64")
+    Tamaño: 9.33" x 1.55"
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Una metodología centrada en las personas para crear soluciones innovadoras a través de la empatía y ...
+      Párrafo 1: Una metodología centrada en las personas para crear soluciones innovadoras a tra
+        Tamaño fuente: 18.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (0.58", 2.02")
+    Tamaño: 8.84" x 0.80"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.33", 3.69")
+    Tamaño: 2.78" x 1.50"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 💡...
+      Párrafo 1: 💡
+        Tamaño fuente: 36.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (1.40", 3.86")
+    Tamaño: 0.64" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Enfoque creativo...
+      Párrafo 1: Enfoque creativo
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (1.00", 4.69")
+    Tamaño: 1.44" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (3.61", 3.69")
+    Tamaño: 2.78" x 1.50"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 👥...
+      Párrafo 1: 👥
+        Tamaño fuente: 36.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (4.68", 3.86")
+    Tamaño: 0.64" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Trabajo en equipo...
+      Párrafo 1: Trabajo en equipo
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (4.23", 4.69")
+    Tamaño: 1.53" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (6.89", 3.69")
+    Tamaño: 2.78" x 1.50"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🔄...
+      Párrafo 1: 🔄
+        Tamaño fuente: 36.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (7.96", 3.86")
+    Tamaño: 0.64" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Proceso iterativo...
+      Párrafo 1: Proceso iterativo
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (7.57", 4.69")
+    Tamaño: 1.42" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 15:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.01")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 4
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Las 5 Fases del Design Thinking...
+      Párrafo 1: Las 5 Fases del Design Thinking
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 5.92" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.33", 1.08")
+    Tamaño: 2.21" x 1.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.52", 1.27")
+    Tamaño: 0.36" x 0.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 1...
+      Párrafo 1: 1
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.65", 1.31")
+    Tamaño: 0.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🤝 Empatizar...
+      Párrafo 1: 🤝 Empatizar
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (1.01", 1.31")
+    Tamaño: 1.21" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Entender las necesidades del usuario...
+      Párrafo 1: Entender las necesidades del usuario
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 1.80")
+    Tamaño: 1.87" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (3.96", 1.08")
+    Tamaño: 2.21" x 1.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (4.30", 1.28")
+    Tamaño: 0.36" x 0.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 2...
+      Párrafo 1: 2
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (4.42", 1.32")
+    Tamaño: 0.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🎯 Definir...
+      Párrafo 1: 🎯 Definir
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (4.79", 1.32")
+    Tamaño: 0.90" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Formular el problema claramente...
+      Párrafo 1: Formular el problema claramente
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (4.30", 1.81")
+    Tamaño: 1.87" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.33", 2.55")
+    Tamaño: 2.21" x 1.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 15:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.52", 2.73")
+    Tamaño: 0.36" x 0.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 16:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 3...
+      Párrafo 1: 3
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.65", 2.77")
+    Tamaño: 0.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 17:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 💡 Idear...
+      Párrafo 1: 💡 Idear
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (1.01", 2.77")
+    Tamaño: 0.75" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 18:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Generar soluciones creativas...
+      Párrafo 1: Generar soluciones creativas
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 3.27")
+    Tamaño: 1.87" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 19:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (3.96", 2.73")
+    Tamaño: 2.21" x 1.16"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 20:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (4.15", 2.92")
+    Tamaño: 0.36" x 0.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 21:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 4...
+      Párrafo 1: 4
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (4.27", 2.96")
+    Tamaño: 0.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 22:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🔨 Prototipar...
+      Párrafo 1: 🔨 Prototipar
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (4.64", 2.96")
+    Tamaño: 1.21" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 23:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Construir versiones simples...
+      Párrafo 1: Construir versiones simples
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (4.15", 3.45")
+    Tamaño: 1.87" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 24:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.33", 4.01")
+    Tamaño: 4.48" x 1.16"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 25:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.52", 4.20")
+    Tamaño: 0.36" x 0.36"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 26:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 5...
+      Párrafo 1: 5
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.65", 4.24")
+    Tamaño: 0.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 27:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ✅ Evaluar...
+      Párrafo 1: ✅ Evaluar
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (1.01", 4.24")
+    Tamaño: 0.98" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 28:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Probar y refinar la solución...
+      Párrafo 1: Probar y refinar la solución
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 4.73")
+    Tamaño: 4.19" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 29:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 5
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Identificar un Problema...
+      Párrafo 1: Identificar un Problema
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 4.86" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: PICTURE (13)
+    Posición: (0.60", 1.31")
+    Tamaño: 8.81" x 1.83"
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ¿Qué problema quieres resolver?...
+      Párrafo 1: ¿Qué problema quieres resolver?
+        Tamaño fuente: 36.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (0.93", 1.73")
+    Tamaño: 8.13" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: La IA es una herramienta poderosa que puede ayudarte en muchas áreas...
+      Párrafo 1: La IA es una herramienta poderosa que puede ayudarte en muchas áreas
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (0.93", 2.39")
+    Tamaño: 8.13" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (1.40", 3.64")
+    Tamaño: 7.20" x 1.55"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (1.43", 3.64")
+    Tamaño: 0.00" x 1.55"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 💭 Preguntas clave...
+      Párrafo 1: 💭 Preguntas clave
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (1.65", 3.89")
+    Tamaño: 6.77" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ¿Qué tareas podrían automatizarse?
+¿Dónde se necesita reconocer patrones?...
+      Párrafo 1: ¿Qué tareas podrían automatizarse?
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+      Párrafo 2: ¿Dónde se necesita reconocer patrones?
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (1.71", 4.32")
+    Tamaño: 6.64" x 0.62"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 11:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 6
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: La IA ya está transformando el mundo...
+      Párrafo 1: La IA ya está transformando el mundo
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 6.94" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.25", 1.71")
+    Tamaño: 4.50" x 1.58"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🎨 Arte...
+      Párrafo 1: 🎨 Arte
+        Tamaño fuente: 18.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 1.98")
+    Tamaño: 4.04" x 0.33"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Creación de imágenes, música y poesía mediante redes neuronales...
+      Párrafo 1: Creación de imágenes, música y poesía mediante redes neuronales
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 2.48")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 1.71")
+    Tamaño: 4.50" x 1.58"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ⚽ Deportes...
+      Párrafo 1: ⚽ Deportes
+        Tamaño fuente: 18.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 1.98")
+    Tamaño: 4.04" x 0.33"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Análisis de rendimiento, entrenamiento personalizado y prevención de lesiones...
+      Párrafo 1: Análisis de rendimiento, entrenamiento personalizado y prevención de lesiones
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 2.48")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.25", 3.54")
+    Tamaño: 4.50" x 1.58"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 📰 Periodismo...
+      Párrafo 1: 📰 Periodismo
+        Tamaño fuente: 18.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 3.81")
+    Tamaño: 4.04" x 0.33"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Edición automática, visualización de datos y generación de noticias...
+      Párrafo 1: Edición automática, visualización de datos y generación de noticias
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 4.31")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 3.54")
+    Tamaño: 4.50" x 1.58"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🌐 Idiomas...
+      Párrafo 1: 🌐 Idiomas
+        Tamaño fuente: 18.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 3.81")
+    Tamaño: 4.04" x 0.33"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 15:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Traducción instantánea y aplicaciones interactivas para aprender vocabulario...
+      Párrafo 1: Traducción instantánea y aplicaciones interactivas para aprender vocabulario
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 4.31")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 16:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 7
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 💡 Ideas de Proyectos...
+      Párrafo 1: 💡 Ideas de Proyectos
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 4.86" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: TABLE (19)
+    Posición: (0.11", 1.39")
+    Tamaño: 9.80" x 2.35"
+
+  Forma 5:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 8
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🌟 Casos de Éxito...
+      Párrafo 1: 🌟 Casos de Éxito
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 4.86" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 1.08")
+    Tamaño: 9.17" x 1.25"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.45", 1.08")
+    Tamaño: 0.00" x 1.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Quick, Draw! - Google...
+      Párrafo 1: Quick, Draw! - Google
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 1.33")
+    Tamaño: 8.78" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Juego que reconoce dibujos en tiempo real, entrenado con millones de bocetos....
+      Párrafo 1: Juego que reconoce dibujos en tiempo real, entrenado con millones de bocetos.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 1.79")
+    Tamaño: 8.78" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 2.58")
+    Tamaño: 9.17" x 1.25"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.45", 2.58")
+    Tamaño: 0.00" x 1.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Shazam...
+      Párrafo 1: Shazam
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 2.83")
+    Tamaño: 8.78" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Identifica canciones en segundos usando reconocimiento de audio....
+      Párrafo 1: Identifica canciones en segundos usando reconocimiento de audio.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 3.29")
+    Tamaño: 8.78" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 4.08")
+    Tamaño: 9.17" x 1.25"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.45", 4.08")
+    Tamaño: 0.00" x 1.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Duolingo...
+      Párrafo 1: Duolingo
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 4.33")
+    Tamaño: 8.78" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 15:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Usa IA para personalizar lecciones según tu progreso....
+      Párrafo 1: Usa IA para personalizar lecciones según tu progreso.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 4.79")
+    Tamaño: 8.78" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 16:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 9
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🔨 Planificación del Prototipo...
+      Párrafo 1: 🔨 Planificación del Prototipo
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 5.41" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 0.96")
+    Tamaño: 8.98" x 0.63"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.59", 0.67")
+    Tamaño: 0.31" x 0.23"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 1...
+      Párrafo 1: 1
+        Tamaño fuente: 10.8
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.71", 0.70")
+    Tamaño: 0.08" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Definir objetivo y público...
+      Párrafo 1: Definir objetivo y público
+        Tamaño fuente: 12.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 0.98")
+    Tamaño: 8.78" x 0.18"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ¿Qué problema resuelve? ¿Para quién?...
+      Párrafo 1: ¿Qué problema resuelve? ¿Para quién?
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 1.25")
+    Tamaño: 8.78" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 1.94")
+    Tamaño: 8.98" x 0.63"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.59", 1.66")
+    Tamaño: 0.31" x 0.23"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 2...
+      Párrafo 1: 2
+        Tamaño fuente: 10.8
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.71", 1.68")
+    Tamaño: 0.08" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Recolectar datos necesarios...
+      Párrafo 1: Recolectar datos necesarios
+        Tamaño fuente: 12.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 1.96")
+    Tamaño: 8.78" x 0.18"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Imágenes, sonidos, textos, etc....
+      Párrafo 1: Imágenes, sonidos, textos, etc.
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 2.24")
+    Tamaño: 8.78" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 2.92")
+    Tamaño: 8.98" x 0.63"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 15:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.59", 2.64")
+    Tamaño: 0.31" x 0.23"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 16:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 3...
+      Párrafo 1: 3
+        Tamaño fuente: 10.8
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.71", 2.66")
+    Tamaño: 0.08" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 17:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Elegir herramientas accesibles...
+      Párrafo 1: Elegir herramientas accesibles
+        Tamaño fuente: 12.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 2.95")
+    Tamaño: 8.78" x 0.18"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 18:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Teachable Machine, Scratch, etc....
+      Párrafo 1: Teachable Machine, Scratch, etc.
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 3.22")
+    Tamaño: 8.78" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 19:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 3.91")
+    Tamaño: 8.98" x 0.63"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 20:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.59", 3.62")
+    Tamaño: 0.31" x 0.23"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 21:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 4...
+      Párrafo 1: 4
+        Tamaño fuente: 10.8
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.71", 3.65")
+    Tamaño: 0.08" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 22:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Diseñar el flujo de trabajo...
+      Párrafo 1: Diseñar el flujo de trabajo
+        Tamaño fuente: 12.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 3.93")
+    Tamaño: 8.78" x 0.18"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 23:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Diagrama de cómo funcionará...
+      Párrafo 1: Diagrama de cómo funcionará
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 4.20")
+    Tamaño: 8.78" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 24:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 4.89")
+    Tamaño: 8.98" x 0.63"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 25:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.59", 4.61")
+    Tamaño: 0.31" x 0.23"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (245, 158, 11)
+
+  Forma 26:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 5...
+      Párrafo 1: 5
+        Tamaño fuente: 10.8
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.71", 4.63")
+    Tamaño: 0.08" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 27:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Establecer plan y roles...
+      Párrafo 1: Establecer plan y roles
+        Tamaño fuente: 12.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 4.91")
+    Tamaño: 8.78" x 0.18"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 28:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Asignar tareas y tiempos...
+      Párrafo 1: Asignar tareas y tiempos
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.60", 5.18")
+    Tamaño: 8.78" x 0.15"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 29:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 10
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🛠️ Herramientas y Recursos...
+      Párrafo 1: 🛠️ Herramientas y Recursos
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 5.21" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.25", 1.29")
+    Tamaño: 4.50" x 2.00"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Teachable Machine...
+      Párrafo 1: Teachable Machine
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 1.56")
+    Tamaño: 4.04" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Entrena modelos de IA sin código. Reconoce imágenes, sonidos y poses....
+      Párrafo 1: Entrena modelos de IA sin código. Reconoce imágenes, sonidos y poses.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 2.02")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: teachablemachine.withgoogle.com...
+      Párrafo 1: teachablemachine.withgoogle.com
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 2.77")
+    Tamaño: 4.04" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 1.29")
+    Tamaño: 4.50" x 2.00"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Scratch + ML...
+      Párrafo 1: Scratch + ML
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 1.56")
+    Tamaño: 4.04" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Programa con bloques y añade extensiones de machine learning....
+      Párrafo 1: Programa con bloques y añade extensiones de machine learning.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 2.02")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: scratch.mit.edu...
+      Párrafo 1: scratch.mit.edu
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 2.77")
+    Tamaño: 4.04" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.25", 3.54")
+    Tamaño: 4.50" x 2.00"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Google AI Experiments...
+      Párrafo 1: Google AI Experiments
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 3.81")
+    Tamaño: 4.04" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Explora experimentos interactivos para inspirarte y aprender....
+      Párrafo 1: Explora experimentos interactivos para inspirarte y aprender.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 4.27")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 15:
+    Tipo: AUTO_SHAPE (1)
+    Texto: experiments.withgoogle.com/collection/ai...
+      Párrafo 1: experiments.withgoogle.com/collection/ai
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.52", 5.02")
+    Tamaño: 4.04" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 16:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 3.54")
+    Tamaño: 4.50" x 2.00"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 17:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ML5.js...
+      Párrafo 1: ML5.js
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 3.81")
+    Tamaño: 4.04" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 18:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Biblioteca JavaScript para crear proyectos web con IA....
+      Párrafo 1: Biblioteca JavaScript para crear proyectos web con IA.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 4.27")
+    Tamaño: 4.04" x 0.50"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 19:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ml5js.org...
+      Párrafo 1: ml5js.org
+        Tamaño fuente: 10.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.52", 5.02")
+    Tamaño: 4.04" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 20:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 11
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 👥 Actividad de Lluvia de Ideas...
+      Párrafo 1: 👥 Actividad de Lluvia de Ideas
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 5.70" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.33", 1.43")
+    Tamaño: 4.42" x 0.83"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.36", 1.43")
+    Tamaño: 0.00" x 0.83"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ⏱️ Tiempo: 20 minutos...
+      Párrafo 1: ⏱️ Tiempo: 20 minutos
+        Tamaño fuente: 18.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.65", 1.68")
+    Tamaño: 2.79" x 0.33"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 📝 Instrucciones...
+      Párrafo 1: 📝 Instrucciones
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.33", 2.40")
+    Tamaño: 4.50" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Formen grupos de 3-4 personas
+Elijan un problema de su entorno
+Usen las fases de Design Thinking
+Com...
+      Párrafo 1: Formen grupos de 3-4 personas
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 2: Elijan un problema de su entorno
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 3: Usen las fases de Design Thinking
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 4: Completen la ficha de proyecto
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.33", 2.81")
+    Tamaño: 4.42" x 1.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 💬 Presentación...
+      Párrafo 1: 💬 Presentación
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.33", 4.24")
+    Tamaño: 4.50" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Cada grupo presenta su idea en 2 minutos....
+      Párrafo 1: Cada grupo presenta su idea en 2 minutos.
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.33", 4.70")
+    Tamaño: 4.50" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 📋 Ficha de Proyecto...
+      Párrafo 1: 📋 Ficha de Proyecto
+        Tamaño fuente: 15.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.25", 1.84")
+    Tamaño: 4.50" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 2.26")
+    Tamaño: 4.42" x 2.32"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (255, 255, 255)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Nombre del proyecto: _______________...
+      Párrafo 1: Nombre del proyecto: _______________
+        Tamaño fuente: 10.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.47", 2.48")
+    Tamaño: 4.05" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Problema a resolver: _______________...
+      Párrafo 1: Problema a resolver: _______________
+        Tamaño fuente: 10.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.47", 2.81")
+    Tamaño: 4.05" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 15:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ¿A quién ayuda?: _______________...
+      Párrafo 1: ¿A quién ayuda?: _______________
+        Tamaño fuente: 10.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.47", 3.15")
+    Tamaño: 4.05" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 16:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Datos necesarios: _______________...
+      Párrafo 1: Datos necesarios: _______________
+        Tamaño fuente: 10.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.47", 3.48")
+    Tamaño: 4.05" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 17:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Herramienta: _______________...
+      Párrafo 1: Herramienta: _______________
+        Tamaño fuente: 10.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.47", 3.81")
+    Tamaño: 4.05" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 18:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Resultado esperado: _______________...
+      Párrafo 1: Resultado esperado: _______________
+        Tamaño fuente: 10.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.47", 4.15")
+    Tamaño: 4.05" x 0.21"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 19:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 12
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ⚠️ Errores Comunes a Evitar...
+      Párrafo 1: ⚠️ Errores Comunes a Evitar
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 5.29" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.25", 1.57")
+    Tamaño: 4.50" x 1.07"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (254, 226, 226)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.28", 1.57")
+    Tamaño: 0.00" x 1.07"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ❌ Problema demasiado amplio...
+      Párrafo 1: ❌ Problema demasiado amplio
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.51", 1.77")
+    Tamaño: 4.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Define un problema específico y acotado...
+      Párrafo 1: Define un problema específico y acotado
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.51", 2.18")
+    Tamaño: 4.12" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 1.57")
+    Tamaño: 4.50" x 1.07"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (209, 250, 229)
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.28", 1.57")
+    Tamaño: 0.00" x 1.07"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ✅ Problema bien definido...
+      Párrafo 1: ✅ Problema bien definido
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.51", 1.77")
+    Tamaño: 4.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Describe quién, qué, dónde y por qué...
+      Párrafo 1: Describe quién, qué, dónde y por qué
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.51", 2.18")
+    Tamaño: 4.12" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.25", 2.88")
+    Tamaño: 4.50" x 1.07"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (254, 226, 226)
+
+  Forma 13:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.28", 2.88")
+    Tamaño: 0.00" x 1.07"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 14:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ❌ Datos insuficientes...
+      Párrafo 1: ❌ Datos insuficientes
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.51", 3.08")
+    Tamaño: 4.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 15:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Sin datos de calidad, la IA no aprende bien...
+      Párrafo 1: Sin datos de calidad, la IA no aprende bien
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.51", 3.50")
+    Tamaño: 4.12" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 16:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 2.88")
+    Tamaño: 4.50" x 1.07"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (209, 250, 229)
+
+  Forma 17:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.28", 2.88")
+    Tamaño: 0.00" x 1.07"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 18:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ✅ Datos variados y abundantes...
+      Párrafo 1: ✅ Datos variados y abundantes
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.51", 3.08")
+    Tamaño: 4.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 19:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Recolecta al menos 50-100 ejemplos por categoría...
+      Párrafo 1: Recolecta al menos 50-100 ejemplos por categoría
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.51", 3.50")
+    Tamaño: 4.12" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 20:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.25", 4.20")
+    Tamaño: 4.50" x 1.07"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (254, 226, 226)
+
+  Forma 21:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.28", 4.20")
+    Tamaño: 0.00" x 1.07"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 22:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ❌ Objetivo poco claro...
+      Párrafo 1: ❌ Objetivo poco claro
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.51", 4.40")
+    Tamaño: 4.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 23:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Sin objetivo, el proyecto pierde dirección...
+      Párrafo 1: Sin objetivo, el proyecto pierde dirección
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.51", 4.82")
+    Tamaño: 4.12" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 24:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.25", 4.20")
+    Tamaño: 4.50" x 1.07"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (209, 250, 229)
+
+  Forma 25:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (5.28", 4.20")
+    Tamaño: 0.00" x 1.07"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 26:
+    Tipo: AUTO_SHAPE (1)
+    Texto: ✅ Objetivo medible...
+      Párrafo 1: ✅ Objetivo medible
+        Tamaño fuente: 13.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.51", 4.40")
+    Tamaño: 4.12" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 27:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Define cómo sabrás si tu proyecto funciona...
+      Párrafo 1: Define cómo sabrás si tu proyecto funciona
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (5.51", 4.82")
+    Tamaño: 4.12" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 28:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
+
+============================================================
+DIAPOSITIVA 13
+============================================================
+Layout: DEFAULT
+
+  Forma 1:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.00")
+    Tamaño: 10.00" x 0.96"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (99, 102, 241)
+
+  Forma 2:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.00", 0.94")
+    Tamaño: 10.00" x 0.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 3:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🎯 Conclusión y Próximos Pasos...
+      Párrafo 1: 🎯 Conclusión y Próximos Pasos
+        Tamaño fuente: 27.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.25", 0.25")
+    Tamaño: 6.08" x 0.42"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 4:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.42", 0.96")
+    Tamaño: 9.17" x 2.00"
+    Tipo de relleno: SOLID (1)
+    Color RGB: (241, 245, 249)
+
+  Forma 5:
+    Tipo: AUTO_SHAPE (1)
+    Posición: (0.45", 0.96")
+    Tamaño: 0.00" x 2.00"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 6:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 📌 Puntos Clave...
+      Párrafo 1: 📌 Puntos Clave
+        Tamaño fuente: 18.0
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 1.21")
+    Tamaño: 4.40" x 0.33"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 7:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Design Thinking diseña soluciones centradas en personas
+La IA tiene aplicaciones en múltiples campos...
+      Párrafo 1: Design Thinking diseña soluciones centradas en personas
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 2: La IA tiene aplicaciones en múltiples campos
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+      Párrafo 3: Un buen prototipo necesita objetivo, datos y planificación
+        Tamaño fuente: 13.5
+        Color tipo: RGB (1)
+        Alineación: LEFT (1)
+    Posición: (0.73", 1.75")
+    Tamaño: 8.60" x 0.96"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 8:
+    Tipo: PICTURE (13)
+    Posición: (0.42", 3.46")
+    Tamaño: 9.17" x 2.00"
+
+  Forma 9:
+    Tipo: AUTO_SHAPE (1)
+    Texto: 🚀 Próxima Sesión...
+      Párrafo 1: 🚀 Próxima Sesión
+        Tamaño fuente: 22.5
+        Negrita: True
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (3.56", 3.79")
+    Tamaño: 2.88" x 0.38"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 10:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Sesión 6: Recopilación de datos...
+      Párrafo 1: Sesión 6: Recopilación de datos
+        Tamaño fuente: 15.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (3.48", 4.33")
+    Tamaño: 3.04" x 0.29"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 11:
+    Tipo: AUTO_SHAPE (1)
+    Texto: Aprenderemos a recopilar y organizar datos para entrenar modelos de IA...
+      Párrafo 1: Aprenderemos a recopilar y organizar datos para entrenar modelos de IA
+        Tamaño fuente: 12.0
+        Color tipo: RGB (1)
+        Alineación: CENTER (2)
+    Posición: (2.25", 4.83")
+    Tamaño: 5.51" x 0.25"
+    Tipo de relleno: BACKGROUND (5)
+
+  Forma 12:
+    Tipo: PICTURE (13)
+    Posición: (8.39", 0.00")
+    Tamaño: 1.61" x 0.66"
