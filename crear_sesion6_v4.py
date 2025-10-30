@@ -47,6 +47,22 @@ def crear_sesion_6():
                         if "Octubre 2024" in run.text:
                             run.text = "Noviembre 2024"
 
+    # Función auxiliar para crear texto con formato
+    def crear_texto_formateado(textbox, texto, fuente='Arial', tamano=12, negrita=False, color=None, alineacion=PP_ALIGN.LEFT):
+        """Crea texto con formato aplicado correctamente a los runs"""
+        tf = textbox.text_frame
+        p = tf.paragraphs[0]
+        run = p.add_run()
+        run.text = texto
+        run.font.name = fuente
+        run.font.size = Pt(tamano)
+        if negrita:
+            run.font.bold = True
+        if color:
+            run.font.color.rgb = color
+        p.alignment = alineacion
+        return p
+
     # Función auxiliar para crear una diapositiva con header azul
     def crear_slide_con_header(titulo):
         # Usar el primer layout disponible
@@ -80,15 +96,7 @@ def crear_sesion_6():
             Inches(0.25), Inches(0.25),
             Inches(7), Inches(0.42)
         )
-        title_frame = title_box.text_frame
-        p = title_frame.paragraphs[0]
-        run = p.add_run()
-        run.text = titulo
-        run.font.name = 'Arial'
-        run.font.size = Pt(27)
-        run.font.bold = True
-        run.font.color.rgb = COLOR_BLANCO
-        p.alignment = PP_ALIGN.LEFT
+        crear_texto_formateado(title_box, titulo, 'Arial', 27, True, COLOR_BLANCO, PP_ALIGN.LEFT)
 
         return slide
 
@@ -144,42 +152,22 @@ def crear_sesion_6():
         Inches(0.81), Inches(1.90),
         Inches(4.31), Inches(0.33)
     )
-    tf = obj_title.text_frame
-    tf.text = "🎯 Objetivo"
-    p = tf.paragraphs[0]
-    p.font.name = 'Arial'
-    p.font.size = Pt(18)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_AZUL_HEADER
-    p.alignment = PP_ALIGN.LEFT
+    crear_texto_formateado(obj_title, "🎯 Objetivo", 'Arial', 18, True, COLOR_AZUL_HEADER, PP_ALIGN.LEFT)
 
     # Texto del objetivo
     obj_text = slide2.shapes.add_textbox(
         Inches(0.81), Inches(2.30),
         Inches(8.61), Inches(0.29)
     )
-    tf = obj_text.text_frame
-    tf.word_wrap = True
-    tf.text = "Enseñar la importancia de los datos para entrenar modelos de Inteligencia Artificial y cómo recopilar datos de calidad."
-    p = tf.paragraphs[0]
-    p.font.name = 'Arial'
-    p.font.size = Pt(13.5)
-    p.font.color.rgb = RGBColor(30, 41, 59)
-    p.alignment = PP_ALIGN.LEFT
+    obj_text.text_frame.word_wrap = True
+    crear_texto_formateado(obj_text, "Enseñar la importancia de los datos para entrenar modelos de Inteligencia Artificial y cómo recopilar datos de calidad.", 'Arial', 13.5, False, RGBColor(30, 41, 59), PP_ALIGN.LEFT)
 
     # Título de agenda
     agenda_title = slide2.shapes.add_textbox(
         Inches(0.50), Inches(3.13),
         Inches(9.18), Inches(0.29)
     )
-    tf = agenda_title.text_frame
-    tf.text = "📋 Agenda"
-    p = tf.paragraphs[0]
-    p.font.name = 'Arial'
-    p.font.size = Pt(15)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_AZUL_HEADER
-    p.alignment = PP_ALIGN.LEFT
+    crear_texto_formateado(agenda_title, "📋 Agenda", 'Arial', 15, True, COLOR_AZUL_HEADER, PP_ALIGN.LEFT)
 
     # Contenido de agenda
     agenda_text = slide2.shapes.add_textbox(
